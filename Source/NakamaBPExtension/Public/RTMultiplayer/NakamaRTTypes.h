@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "NakamaUnreal.h"
+#include "NakamaBPExtension.h"
 #include "NakamaRTTypes.generated.h"
 
 USTRUCT(BlueprintType, Category = "Nakama BP Extension|RT Multiplayer")

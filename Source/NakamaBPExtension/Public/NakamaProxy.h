@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include <OnlineBlueprintCallProxyBase.h>
+#include "Net/OnlineBlueprintCallProxyBase.h"
 #include "NakamaError.h"
 #include "NakamaBPExtension.h"
 #include "NakamaProxy.generated.h"
